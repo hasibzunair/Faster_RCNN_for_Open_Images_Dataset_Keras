@@ -1,9 +1,10 @@
 ```
-data/
+dataset/
     VOCdevkit/
             VOC2012/
-    model/
-         vgg16....h5
+                    data folders...
+model/
+    vgg16....h5
          
 train-voc.ipynb         
 ```

@@ -1,3 +1,6 @@
-data/
+dataset/
 exp/
+model/
 .ipynb_checkpoints/
+*.h5
+*.pickle
